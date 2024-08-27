@@ -276,6 +276,6 @@ Berikut adalah hasil evaluasi dari ketiga model yang digunakan:
 
 Berdasarkan metrik evaluasi, **Random Forest** terbukti menjadi model terbaik dalam mendeteksi kedua kelas, baik positif maupun negatif, dengan performa yang seimbang. Model ini tidak hanya menunjukkan akurasi yang tinggi, tetapi juga precision, recall, dan F1 Score yang baik untuk kedua kelas, menjadikannya pilihan terbaik untuk memprediksi risiko 10 tahun terkena CHD.
 
-Dengan menggunakan model machine learning, saya dapat menjawab problem statement dan mencapai goal yang diharapkan. Logistic Regression dipilih sebagai model terbaik karena performanya yang lebih seimbang dalam mendeteksi risiko CHD, menunjukkan bahwa solusi yang direncanakan berhasil dan berdampak positif. Model ini dapat digunakan untuk membantu dalam prediksi risiko 10 tahun terkena CHD, mendukung pengambilan keputusan klinis yang lebih baik dan membantu dalam upaya pencegahan penyakit jantung koroner.
+Dengan menggunakan model machine learning, saya dapat menjawab problem statement dan mencapai goal yang diharapkan. **Random Forest** dipilih sebagai model terbaik karena performanya yang lebih seimbang dalam mendeteksi risiko CHD, menunjukkan bahwa solusi yang direncanakan berhasil dan berdampak positif. Model ini dapat digunakan untuk membantu dalam prediksi risiko 10 tahun terkena CHD, mendukung pengambilan keputusan klinis yang lebih baik dan membantu dalam upaya pencegahan penyakit jantung koroner.
 
 
